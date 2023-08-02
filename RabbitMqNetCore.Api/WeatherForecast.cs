@@ -1,4 +1,4 @@
-namespace RabbitMqNetCore
+namespace RabbitMqNetCore.Api
 {
     public class WeatherForecast
     {
